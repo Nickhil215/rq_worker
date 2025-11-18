@@ -214,15 +214,3 @@ http://localhost:9181
 * Ready foundation for ML, video, or CPU/GPU heavy tasks
 
 ---
-
-# ❤️ Want a Full Production Setup?
-
-I can generate:
-
-* Docker Compose (API + Redis + Worker)
-* Kubernetes Deployment (with autoscaling)
-* GPU Worker Dockerfile (PyTorch/TensorRT)
-* Redis Sentinel / Cluster setup
-* Prometheus + Grafana monitoring
-
-Just tell me what environment you want!

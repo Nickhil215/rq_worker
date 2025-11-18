@@ -1,5 +1,5 @@
 # rq_worker
-Below is a **clean, professional, production-quality README.md** for your **FastAPI + Redis + RQ Worker** POC.
+A **clean, professional, production-quality README.md** for your **FastAPI + Redis + RQ Worker** POC.
 
 ---
 
